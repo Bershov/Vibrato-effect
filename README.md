@@ -3,8 +3,8 @@ Vibrato is a musical effect consisting of a regular, pulsating change of pitch. 
 
 Using:  
   
-\#include "BerVibrato/BerVibrato.h"  
-//...
+\#include "BerVibrato/BerVibrato.h"    
+//...  
 BerVibrato vbr;  
 vbr.initialize(SampleRateHz);  
 //...  
