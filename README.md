@@ -3,7 +3,7 @@ Vibrato audio effect.
 
 Using:  
   
-#include "BerVibrato/BerVibrato.h"  
+\#include "BerVibrato/BerVibrato.h"  
 //...
 BerVibrato vbr;  
 vbr.initialize(SampleRateHz);  
