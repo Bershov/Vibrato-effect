@@ -41,7 +41,7 @@ private:
 	RingBuffer buffer;
 	float depth;
 
-    static const int additionalDelay = 1;
+    static const int additionalDelay = 3;
 };
 
 #endif
